@@ -68,7 +68,6 @@
 @media (max-width:700px) {
   #navbar nav a {
     display: none;
-    border-right: none;
   }
 
   #navbar nav a.menu-icon {
