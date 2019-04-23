@@ -78,4 +78,9 @@
   #logo h2 {
     display:none;
   }
+
+  #social {
+    right:auto;
+    left: 40px;
+  }
 }
